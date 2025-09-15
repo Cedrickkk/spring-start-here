@@ -1,0 +1,26 @@
+package models;
+
+public class Person {
+    private String name;
+    private Parrot parrot;
+
+    public Person(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Parrot getParrot() {
+        return parrot;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", parrot=" + parrot +
+                '}';
+    }
+}
