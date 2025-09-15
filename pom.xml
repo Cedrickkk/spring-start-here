@@ -29,6 +29,13 @@
         <module>sq-ch3-ex8</module>
         <module>sq-ch3-ex9</module>
         <module>sq-ch3-ex10</module>
+        <module>sq-ch4-ex1</module>
+        <module>sq-ch4-ex2</module>
+        <module>sq-ch4-ex3</module>
+        <module>sq-ch4-ex4</module>
+        <module>sq-ch4-ex5</module>
+        <module>sq-ch4-ex6</module>
+        <module>sq-ch4-ex7</module>
     </modules>
 
     <properties>
