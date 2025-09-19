@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a0eee4-f22f-4b44-adb5-58de4614d33f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sq-ch5-ex7-add/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex4.1-add/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sq-ch6-ex7/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -29,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -54,37 +55,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch4-ex6/src/main/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch6-ex7/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch6-ex7\src\main\java" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch6-ex5\src\main\java" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch6-ex4.1-add\src\main\java" />
       <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex6\src\main\java" />
       <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex4\src\main\java" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex3\src\main\java" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex2\src\main\java\repositories" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex2\src\main\java\proxies" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="repositories" />
@@ -92,49 +96,49 @@
       <recent name="models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sq-ch5-ex6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sq-ch5-ex3" />
+      <module name="sq-ch6-ex4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sq-ch5-ex5" />
+      <module name="sq-ch6-ex7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sq-ch5-ex1" />
+      <module name="sq-ch6-ex4.1-add" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sq-ch6-ex6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sq-ch5-ex7-add" />
+      <module name="sq-ch6-ex5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +164,10 @@
       <workItem from="1757941599421" duration="2173000" />
       <workItem from="1757991494013" duration="8539000" />
       <workItem from="1758070161367" duration="2197000" />
+      <workItem from="1758114889083" duration="2773000" />
+      <workItem from="1758166856647" duration="8471000" />
+      <workItem from="1758198680451" duration="1888000" />
+      <workItem from="1758246697840" duration="5082000" />
     </task>
     <servers />
   </component>

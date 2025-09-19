@@ -43,6 +43,14 @@
         <module>sq-ch5-ex5</module>
         <module>sq-ch5-ex6</module>
         <module>sq-ch5-ex7-add</module>
+        <module>sq-ch6-ex1</module>
+        <module>sq-ch6-ex2</module>
+        <module>sq-ch6-ex3</module>
+        <module>sq-ch6-ex4</module>
+        <module>sq-ch6-ex4.1-add</module>
+        <module>sq-ch6-ex5</module>
+        <module>sq-ch6-ex6</module>
+        <module>sq-ch6-ex7</module>
     </modules>
 
     <properties>
