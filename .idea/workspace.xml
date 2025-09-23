@@ -6,13 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="57a0eee4-f22f-4b44-adb5-58de4614d33f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="ComposerSettings">
     <execution />
@@ -48,44 +51,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch6-ex7/src/main/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SqCh8Ex2Application.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.Main.executor": "Run",
+    "Spring Boot.SqCh8Ex1Application.executor": "Run",
+    "Spring Boot.SqCh8Ex2Application.executor": "Run",
+    "Spring Boot.SqCh8Ex3Application.executor": "Run",
+    "Spring Boot.SqCh8Ex4Application.executor": "Run",
+    "Spring Boot.SqCh8Ex5Application.executor": "Run",
+    "Spring Boot.SqCh8Ex6Application.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch8-ex6/src/main/resources/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch6-ex7\src\main\java" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch6-ex5\src\main\java" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch6-ex4.1-add\src\main\java" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex6\src\main\java" />
-      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch4-ex4\src\main\java" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch8-ex6\src\main\resources\templates" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch8-ex5\src\main\resources\templates" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch8-ex4\src\main\resources\templates" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch8-ex3\src\main\resources\templates" />
+      <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch8-ex1\src\main\resources\templates" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -96,17 +107,20 @@
       <recent name="models" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SqCh8Ex6Application">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="sq-ch6-ex7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="sq-ch6-ex4.1-add" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SqCh8Ex2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sring.framework.sqch8ex2.SqCh8Ex2Application" />
+      <module name="sq-ch8-ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sring.framework.sqch8ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/spring-start-here/sq-ch7-ex1/static/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -135,13 +162,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SqCh8Ex1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch8-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sring.framework.sqch8ex1.SqCh8Ex1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqCh8Ex2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch8-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sring.framework.sqch8ex2.SqCh8Ex2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqCh8Ex3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch8-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sring.framework.sqch8ex3.SqCh8Ex3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqCh8Ex4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch8-ex4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sring.framework.sqch8ex4.SqCh8Ex4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqCh8Ex5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="sq-ch8-ex5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sring.framework.sqch8ex5.SqCh8Ex5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqCh8Ex6Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="sq-ch8-ex6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sring.framework.sqch8ex6.SqCh8Ex6Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SqCh8Ex2Application" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +245,17 @@
       <workItem from="1758255867027" duration="51000" />
       <workItem from="1758277935453" duration="1254000" />
       <workItem from="1758343665545" duration="3019000" />
-      <workItem from="1758519528213" duration="1432000" />
+      <workItem from="1758519528213" duration="3800000" />
+      <workItem from="1758524649668" duration="610000" />
+      <workItem from="1758525270716" duration="2589000" />
+      <workItem from="1758590853994" duration="2628000" />
+      <workItem from="1758593508467" duration="5881000" />
+      <workItem from="1758599974006" duration="338000" />
+      <workItem from="1758600323636" duration="180000" />
+      <workItem from="1758600545212" duration="461000" />
+      <workItem from="1758601016094" duration="229000" />
+      <workItem from="1758601255200" duration="134000" />
+      <workItem from="1758601397859" duration="6045000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Products</title>
+
+    <style>
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Aligns content to the top */
+            min-height: 100vh;
+        }
+
+        .main-container {
+            display: flex; /* Establishes a flexbox container */
+            gap: 20px; /* Adds space between the columns */
+            width: 100%;
+            max-width: 1200px; /* Limits the overall width for better readability */
+        }
+
+        .card {
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 4px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            flex: 1; /* Allows the card to grow and fill the available space */
+        }
+
+        /* Form-specific styles */
+        .form-group {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #555;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 15px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .submit-btn:hover {
+            background-color: #0056b3;
+        }
+
+        /* Table-specific styles */
+        .details-table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse; /* Removes space between table borders */
+        }
+
+        .details-table th, .details-table td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        .details-table th {
+            background-color: #f8f8f8;
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="main-container">
+    <div class="card">
+        <h1>Submit New Product</h1>
+        <form action="/products" method="POST">
+            <div class="form-group">
+                <label for="productName">Product Name</label>
+                <input type="text" id="productName" name="name" placeholder="Enter product name" required>
+            </div>
+            <div class="form-group">
+                <label for="productPrice">Product Price</label>
+                <input type="number" id="productPrice" name="price" placeholder="Enter product price" step="0.01"
+                       required>
+            </div>
+            <button type="submit" class="submit-btn">Submit Product</button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h1>Products</h1>
+        <h2>View products</h2>
+        <table class="details-table">
+            <thead>
+            <tr>
+                <th>PRODUCT NAME</th>
+                <th>PRODUCT PRICE</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="p: ${products}">
+                <td th:text="${p.name}"></td>
+                <td th:text="${p.price}"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>

@@ -5,6 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sq-ch8-ex1/pom.xml" />
+        <option value="$PROJECT_DIR$/sq-ch8-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/sq-ch8-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/sq-ch8-ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/sq-ch8-ex5/pom.xml" />
+        <option value="$PROJECT_DIR$/sq-ch8-ex6/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

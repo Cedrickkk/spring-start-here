@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Developer Details</title>
+
+    <style>
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+
+        .card {
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 4px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        .details-table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .details-table td, th {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="card">
+        <table class="details-table">
+            <tr>
+                <th>username</th>
+                <th>quote</th>
+            </tr>
+            <tr>
+                <td th:text="${username}"></td>
+                <td th:text="${quote}"></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+</body>
+</html>
