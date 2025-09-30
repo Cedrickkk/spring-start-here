@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .welcome-card {
+            background-color: #fff;
+            padding: 50px 70px;
+            border-radius: 5px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+        }
+
+        h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin: 0;
+            color: #2c3e50;
+        }
+
+        p {
+            font-size: 18px;
+            font-weight: 400;
+            margin-top: 15px;
+            color: #7f8c8d;
+        }
+
+        .logout-btn {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 10px 20px;
+            background-color: #e74c3c;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 3px;
+            font-size: 16px;
+            font-weight: 500;
+            transition: background-color 0.3s ease;
+        }
+
+        .logout-btn:hover {
+            background-color: #c0392b;
+        }
+    </style>
+</head>
+<body>
+
+<div class="welcome-card">
+    <h1 th:text="'Welcome, ' + ${username} + '!'">Welcome, User!</h1>
+    <h2>
+        Your login number is
+        <span th:text="${loginCount}"></span>
+    </h2>
+    <p>We're glad to have you here.</p>
+    <a href="/main?logout" class="logout-btn">Logout</a>
+</div>
+
+</body>
+</html>

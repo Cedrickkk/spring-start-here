@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch10-ex7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch11-ex1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch11-ex2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch11-payments/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex2/src/main/java" charset="UTF-8" />
@@ -90,6 +100,9 @@
     <file url="file://$PROJECT_DIR$/sq-ch8-ex4/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch8-ex5/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch8-ex6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch9-ex1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch9-ex2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sq-ch9-ex3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
