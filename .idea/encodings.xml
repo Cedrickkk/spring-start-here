@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< Updated upstream
     <file url="file://$PROJECT_DIR$/sq-ch10-ex1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch10-ex2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch10-ex3/src/main/java" charset="UTF-8" />
@@ -15,6 +16,8 @@
     <file url="file://$PROJECT_DIR$/sq-ch12-ex1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch12-ex2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch12-ex3/src/main/java" charset="UTF-8" />
+=======
+>>>>>>> Stashed changes
     <file url="file://$PROJECT_DIR$/sq-ch2-ex1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex2/src/main/java" charset="UTF-8" />
@@ -25,6 +28,7 @@
     <file url="file://$PROJECT_DIR$/sq-ch2-ex4/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex5/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex5/src/main/resources" charset="UTF-8" />
+<<<<<<< Updated upstream
     <file url="file://$PROJECT_DIR$/sq-ch2-ex6/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex6/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch2-ex7/src/main/java" charset="UTF-8" />
@@ -107,6 +111,8 @@
     <file url="file://$PROJECT_DIR$/sq-ch9-ex1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch9-ex2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sq-ch9-ex3/src/main/java" charset="UTF-8" />
+=======
+>>>>>>> Stashed changes
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

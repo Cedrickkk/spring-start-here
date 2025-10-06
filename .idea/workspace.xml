@@ -39,10 +39,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.3.7\php.exe" />
+=======
+>>>>>>> Stashed changes
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -108,10 +111,13 @@
     "Spring Boot.SqCh9Ex3Application.executor": "Run",
     "Spring Boot.WebClientApplication.executor": "Run",
     "git-widget-placeholder": "main",
+<<<<<<< Updated upstream
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch9-ex3/src/main/resources/templates",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+=======
+>>>>>>> Stashed changes
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
