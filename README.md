@@ -65,6 +65,7 @@ mvn spring-boot:run
 
 Each chapter module is self-contained and includes:
 - Source code examples from the textbook
+- Additional practice exercises
 
 ## 🤝 Contributing
 
