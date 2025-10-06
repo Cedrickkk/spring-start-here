@@ -68,7 +68,11 @@
         <module>sq-ch10-ex5</module>
         <module>sq-ch10-ex6</module>
         <module>sq-ch10-ex7</module>
+        <module>sq-ch11-ex1</module>
+        <module>sq-ch11-ex2</module>
+        <module>sq-ch11-ex3</module>
         <module>sq-ch11-payments</module>
+        <module>sq-ch12-ex1</module>
     </modules>
 
     <properties>

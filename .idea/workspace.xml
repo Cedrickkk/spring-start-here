@@ -9,69 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch2-ex8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch2-ex8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex10/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch3-ex9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch3-ex9/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch4-ex7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch4-ex7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch5-ex7-add/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch5-ex7-add/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex4.1-add/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex4.1-add/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch6-ex7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch6-ex7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex1/src/main/java/org/sring/framework/sqch8ex1/SqCh8Ex1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex1/src/main/java/org/spring/framework/sqch8ex1/SqCh8Ex1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex1/src/main/java/org/sring/framework/sqch8ex1/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex1/src/main/java/org/spring/framework/sqch8ex1/controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex1/src/test/java/org/sring/framework/sqch8ex1/SqCh8Ex1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex1/src/test/java/org/spring/framework/sqch8ex1/SqCh8Ex1ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex2/src/main/java/org/sring/framework/sqch8ex2/SqCh8Ex2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex2/src/main/java/org/spring/framework/sqch8ex2/SqCh8Ex2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex2/src/main/java/org/sring/framework/sqch8ex2/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex2/src/main/java/org/spring/framework/sqch8ex2/controllers/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex2/src/test/java/org/sring/framework/sqch8ex2/SqCh8Ex2ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex2/src/test/java/org/spring/framework/sqch8ex2/SqCh8Ex2ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex3/src/main/java/org/sring/framework/sqch8ex3/SqCh8Ex3Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex3/src/main/java/org/spring/framework/sqch8ex3/SqCh8Ex3Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex3/src/main/java/org/sring/framework/sqch8ex3/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex3/src/main/java/org/spring/framework/sqch8ex3/controllers/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex3/src/test/java/org/sring/framework/sqch8ex3/SqCh8Ex3ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex3/src/test/java/org/spring/framework/sqch8ex3/SqCh8Ex3ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex4/src/main/java/org/sring/framework/sqch8ex4/SqCh8Ex4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex4/src/main/java/org/spring/framework/sqch8ex4/SqCh8Ex4Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex4/src/main/java/org/sring/framework/sqch8ex4/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex4/src/main/java/org/spring/framework/sqch8ex4/controllers/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex4/src/test/java/org/sring/framework/sqch8ex4/SqCh8Ex4ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex4/src/test/java/org/spring/framework/sqch8ex4/SqCh8Ex4ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/sring/framework/sqch8ex5/SqCh8Ex5Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/spring/framework/sqch8ex5/SqCh8Ex5Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/sring/framework/sqch8ex5/controllers/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/spring/framework/sqch8ex5/controllers/ProductsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/sring/framework/sqch8ex5/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/spring/framework/sqch8ex5/models/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/sring/framework/sqch8ex5/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex5/src/main/java/org/spring/framework/sqch8ex5/services/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex5/src/test/java/org/sring/framework/sqch8ex5/SqCh8Ex5ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex5/src/test/java/org/spring/framework/sqch8ex5/SqCh8Ex5ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/sring/framework/sqch8ex6/SqCh8Ex6Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/spring/framework/sqch8ex6/SqCh8Ex6Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/sring/framework/sqch8ex6/controllers/ProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/spring/framework/sqch8ex6/controllers/ProductsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/sring/framework/sqch8ex6/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/spring/framework/sqch8ex6/models/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/sring/framework/sqch8ex6/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex6/src/main/java/org/spring/framework/sqch8ex6/services/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex6/src/main/resources/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex6/src/main/resources/templates/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sq-ch8-ex6/src/test/java/org/sring/framework/sqch8ex6/SqCh8Ex6ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch8-ex6/src/test/java/org/spring/framework/sqch8ex6/SqCh8Ex6ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sq-ch11-ex1/src/main/java/org/spring/framework/sqch11ex1/controllers/PaymentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sq-ch11-ex1/src/main/java/org/spring/framework/sqch11ex1/controllers/PaymentsController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,64 +54,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OpenFeignClientApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SqCh10Ex1Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SqCh10Ex3Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SqCh10Ex7Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SqCh8Ex2Application.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.OpenFeignClientApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PaymentService (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.PaymentService.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.RestTemplateClientApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh10Ex1Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh10Ex2Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh10Ex3Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh10Ex4Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh10Ex6Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh10Ex7Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh11PaymentsApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh1Ex5Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh8Ex1Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh8Ex2Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh8Ex3Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh8Ex4Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh8Ex5Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh8Ex6Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh9Ex1Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh9Ex2Application.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SqCh9Ex3Application.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch9-ex3/src/main/resources/templates&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JDBCTemplateWithCustomBeanDataSourceApplication.executor": "Run",
+    "Application.JDBCTemplateWithH2Application.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OpenFeignClientApplication.executor": "Run",
+    "Application.SqCh10Ex1Application.executor": "Run",
+    "Application.SqCh10Ex3Application.executor": "Run",
+    "Application.SqCh10Ex7Application.executor": "Run",
+    "Application.SqCh8Ex2Application.executor": "Run",
+    "Application.WebClientApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Maven.sq-ch12-ex1 [clean].executor": "Run",
+    "Maven.sq-ch12-ex1 [compile].executor": "Run",
+    "Maven.sq-ch12-ex1 [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.JDBCTemplateApplication.executor": "Run",
+    "Spring Boot.JDBCTemplateWithCustomBeanDataSourceApplication.executor": "Run",
+    "Spring Boot.JDBCTemplateWithCustomDataSourceApplication.executor": "Run",
+    "Spring Boot.Main.executor": "Run",
+    "Spring Boot.OpenFeignClientApplication.executor": "Run",
+    "Spring Boot.PaymentService (1).executor": "Run",
+    "Spring Boot.PaymentService.executor": "Run",
+    "Spring Boot.RestTemplateClientApplication.executor": "Run",
+    "Spring Boot.SqCh10Ex1Application.executor": "Run",
+    "Spring Boot.SqCh10Ex2Application.executor": "Run",
+    "Spring Boot.SqCh10Ex3Application.executor": "Run",
+    "Spring Boot.SqCh10Ex4Application.executor": "Run",
+    "Spring Boot.SqCh10Ex6Application.executor": "Run",
+    "Spring Boot.SqCh10Ex7Application.executor": "Run",
+    "Spring Boot.SqCh11PaymentsApplication.executor": "Run",
+    "Spring Boot.SqCh1Ex5Application.executor": "Run",
+    "Spring Boot.SqCh8Ex1Application.executor": "Run",
+    "Spring Boot.SqCh8Ex2Application.executor": "Run",
+    "Spring Boot.SqCh8Ex3Application.executor": "Run",
+    "Spring Boot.SqCh8Ex4Application.executor": "Run",
+    "Spring Boot.SqCh8Ex5Application.executor": "Run",
+    "Spring Boot.SqCh8Ex6Application.executor": "Run",
+    "Spring Boot.SqCh9Ex1Application.executor": "Run",
+    "Spring Boot.SqCh9Ex2Application.executor": "Run",
+    "Spring Boot.SqCh9Ex3Application.executor": "Run",
+    "Spring Boot.WebClientApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cedric/IdeaProjects/spring-start-here/sq-ch9-ex3/src/main/resources/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2",
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Cedric\IdeaProjects\spring-start-here\sq-ch9-ex3\src\main\resources\templates" />
@@ -201,13 +155,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RestTemplateClientApplication">
-    <configuration name="OpenFeignClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.spring.framework.sqch11ex1.OpenFeignClientApplication" />
-      <module name="sq-ch11-ex1" />
+  <component name="RunManager" selected="Spring Boot.JDBCTemplateWithCustomBeanDataSourceApplication">
+    <configuration name="JDBCTemplateWithCustomBeanDataSourceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.spring.framework.sqch12ex3.JDBCTemplateWithCustomBeanDataSourceApplication" />
+      <module name="sq-ch12-ex3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.spring.framework.sqch11ex1.*" />
+          <option name="PATTERN" value="org.spring.framework.sqch12ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqCh10Ex3Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sring.framework.sqch10ex3.SqCh10Ex3Application" />
-      <module name="sq-ch10-ex3" />
+    <configuration name="JDBCTemplateWithH2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.spring.framework.sqch12ex1.JDBCTemplateWithH2Application" />
+      <module name="sq-ch12-ex1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sring.framework.sqch10ex3.*" />
+          <option name="PATTERN" value="org.spring.framework.sqch12ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,15 +182,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqCh10Ex7Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sring.framework.sqch10ex7.SqCh10Ex7Application" />
-      <module name="sq-ch10-ex7" />
+    <configuration name="WebClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.spring.framework.sqch11ex3.WebClientApplication" />
+      <module name="sq-ch11-ex3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sring.framework.sqch10ex7.*" />
+          <option name="PATTERN" value="org.spring.framework.sqch11ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTemplateWithCustomBeanDataSourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch12-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.framework.sqch12ex3.JDBCTemplateWithCustomBeanDataSourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTemplateWithCustomDataSourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch12-ex2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.framework.sqch12ex2.JDBCTemplateWithCustomDataSourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCTemplateWithH2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch12-ex1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.framework.sqch12ex1.JDBCTemplateWithH2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -410,12 +385,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sq-ch11-ex3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.spring.framework.sqch11ex3.WebClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.OpenFeignClientApplication" />
-      <item itemvalue="Application.SqCh10Ex3Application" />
-      <item itemvalue="Application.SqCh10Ex7Application" />
+      <item itemvalue="Application.JDBCTemplateWithCustomBeanDataSourceApplication" />
+      <item itemvalue="Application.JDBCTemplateWithH2Application" />
+      <item itemvalue="Application.WebClientApplication" />
+      <item itemvalue="Spring Boot.JDBCTemplateWithCustomBeanDataSourceApplication" />
+      <item itemvalue="Spring Boot.JDBCTemplateWithCustomDataSourceApplication" />
+      <item itemvalue="Spring Boot.JDBCTemplateWithH2Application" />
+      <item itemvalue="Spring Boot.WebClientApplication" />
       <item itemvalue="Spring Boot.Main" />
       <item itemvalue="Spring Boot.PaymentService" />
+      <item itemvalue="Spring Boot.RestTemplateClientApplication" />
+      <item itemvalue="Spring Boot.SqCh10Ex1Application" />
+      <item itemvalue="Spring Boot.SqCh10Ex2Application" />
+      <item itemvalue="Spring Boot.SqCh10Ex3Application" />
+      <item itemvalue="Spring Boot.SqCh10Ex4Application" />
+      <item itemvalue="Spring Boot.SqCh10Ex6Application" />
+      <item itemvalue="Spring Boot.SqCh10Ex7Application" />
+      <item itemvalue="Spring Boot.SqCh11Ex1Application" />
       <item itemvalue="Spring Boot.SqCh1Ex5Application" />
       <item itemvalue="Spring Boot.SqCh8Ex1Application" />
       <item itemvalue="Spring Boot.SqCh8Ex2Application" />
@@ -426,24 +420,16 @@
       <item itemvalue="Spring Boot.SqCh9Ex1Application" />
       <item itemvalue="Spring Boot.SqCh9Ex2Application" />
       <item itemvalue="Spring Boot.SqCh9Ex3Application" />
-      <item itemvalue="Spring Boot.SqCh10Ex1Application" />
-      <item itemvalue="Spring Boot.SqCh10Ex2Application" />
-      <item itemvalue="Spring Boot.SqCh10Ex3Application" />
-      <item itemvalue="Spring Boot.SqCh10Ex4Application" />
-      <item itemvalue="Spring Boot.SqCh10Ex6Application" />
-      <item itemvalue="Spring Boot.SqCh10Ex7Application" />
-      <item itemvalue="Spring Boot.SqCh11Ex1Application" />
-      <item itemvalue="Spring Boot.RestTemplateClientApplication" />
       <item itemvalue="Spring Boot.OpenFeignClientApplication" />
       <item itemvalue="Spring Boot.PaymentService (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCTemplateWithCustomBeanDataSourceApplication" />
+        <item itemvalue="Application.JDBCTemplateWithH2Application" />
+        <item itemvalue="Application.WebClientApplication" />
         <item itemvalue="Spring Boot.PaymentService (1)" />
         <item itemvalue="Spring Boot.OpenFeignClientApplication" />
-        <item itemvalue="Application.OpenFeignClientApplication" />
-        <item itemvalue="Application.SqCh10Ex7Application" />
-        <item itemvalue="Application.SqCh10Ex3Application" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +487,14 @@
       <workItem from="1759133920334" duration="1980000" />
       <workItem from="1759149931019" duration="3542000" />
       <workItem from="1759199073459" duration="5732000" />
-      <workItem from="1759234219152" duration="584000" />
+      <workItem from="1759234219152" duration="906000" />
+      <workItem from="1759278237946" duration="130000" />
+      <workItem from="1759477690781" duration="128000" />
+      <workItem from="1759477872109" duration="50000" />
+      <workItem from="1759658140822" duration="5308000" />
+      <workItem from="1759663512112" duration="1173000" />
+      <workItem from="1759719795938" duration="2440000" />
+      <workItem from="1759724404259" duration="5077000" />
     </task>
     <servers />
   </component>
