@@ -1051,7 +1051,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="307" parent="1" name="spring_db">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2025-10-05.11:00:58</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-10-06.04:59:19</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="308" parent="1" name="sumilang_services">
@@ -1083,7 +1083,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
     <column id="315" parent="314" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>11</AutoIncrement>
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>int|0s</StoredType>
@@ -1094,10 +1094,9 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <StoredType>varchar(50)|0s</StoredType>
     </column>
     <column id="317" parent="314" name="price">
-      <DefaultExpression>0.000000</DefaultExpression>
       <NotNull>1</NotNull>
       <Position>3</Position>
-      <StoredType>decimal(20,6 digit)|0s</StoredType>
+      <StoredType>double|0s</StoredType>
     </column>
     <index id="318" parent="314" name="PRIMARY">
       <ColNames>id</ColNames>
