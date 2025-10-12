@@ -24,7 +24,7 @@ This project is organized into modules corresponding to each chapter of the text
 - **Chapter 11: Consuming REST Endpoints** - REST client implementations
 - **Chapter 12: Using Data Sources in Spring Apps** - Database connectivity and JDBC
 - **Chapter 13: Using Transactions in Spring Apps** - Transaction management
-- **Chapter 14: Implementing Data Persistence with Spring Data** - Spring Data JPA and repositories
+- **Chapter 14: Implementing Data Persistence with Spring Data** - Spring Data JDBC and repositories
 - **Chapter 15: Testing Your Spring App** - Unit and integration testing strategies
 
 ## 🛠️ Technologies
@@ -33,7 +33,7 @@ This project is organized into modules corresponding to each chapter of the text
 - **Spring Boot** - Application framework
 - **Maven** - Dependency management and build tool
 - **SQL** - Database queries and operations
-- **Spring Data JPA** - Data persistence
+- **Spring Data JDBC** - Data persistence
 - **Spring MVC** - Web layer
 - **Spring AOP** - Aspect-oriented programming
 
